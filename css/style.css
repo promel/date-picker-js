@@ -1,0 +1,7 @@
+table > tbody > tr > td{
+    width:10%;  
+}
+
+#chosen-date{
+    border: 1px solid blue;   
+}
